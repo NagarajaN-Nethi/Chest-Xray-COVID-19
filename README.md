@@ -19,4 +19,5 @@ Loss Over Epochs:
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nagarajan-nethi/)
 
 
+
 Also check out : [Using Tranfer Learning to create an Image Classifier on the TensorFlow framework](https://github.com/NagarajaN-Nethi/VGG-16)
