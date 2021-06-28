@@ -14,7 +14,7 @@ Loss Over Epochs:
 
 [Checkout the codes here:](https://github.com/NagarajaN-Nethi/Chest-Xray-COVID-19/blob/master/Covid_19_Chest_X_Ray.ipynb)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/nagarajan-nethi/) ![image](https://user-images.githubusercontent.com/10369716/123642142-96890200-d840-11eb-88bb-65b524f06b81.png)<img src="drawing.jpg" alt="drawing" width="200"/>
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nagarajan-nethi/) ![image]<img src="https://user-images.githubusercontent.com/10369716/123642142-96890200-d840-11eb-88bb-65b524f06b81.png" alt="drawing" width="200"/>
 
 
 
